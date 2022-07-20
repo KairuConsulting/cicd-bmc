@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 
 // this is a comment that we're adding to the code to make a change
-var element = React.createElement('h1', { className: 'greeting' }, 'Hello, Black Men and Women Coding! -- this was updated with everyone watching');
+var element = React.createElement('h1', { className: 'greeting' }, 'Hello, Black Men and Women Coding! -- does not go offline');
 ReactDOM.render(element, document.getElementById('root'));
 
 reportWebVitals();
